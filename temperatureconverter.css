@@ -1,0 +1,69 @@
+.main-heading {
+    font-family: "bree serif";
+    padding-bottom: 15px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+
+.bg-container {
+    background-color: #adadad;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.kelvin {
+    background-color: #ededed;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 0px;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.celsius {
+    background-color: #ededed;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 0px;
+    text-align: center;
+    margin-bottom: 5px;
+    width: 100%;
+}
+
+.Fahrenheit {
+    background-color: #ededed;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 0px;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 5px;
+    display: flex;
+}
+
+.button1 {
+    background-color: transparent;
+    text-align: center;
+
+}
+.container{
+    background-color: lightblue;
+    margin-top:30px;
+    border-radius:5px;
+    padding:15px
+}
+.symbols{
+    background-color: darkgray;
+    width:25px;
+    border-radius :5px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button{
+    -webkit-appearance: none;
+}
